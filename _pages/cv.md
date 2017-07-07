@@ -11,39 +11,30 @@ redirect_from:
 
 EDUCATION AND TRAINING
 ======
-Cancer Prevention Fellowship Program,	June 2017 - Present
-
+* Cancer Prevention Fellowship Program,	June 2017 - Present
 National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
 
 
-MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research,	Anticipated May 2018
-
+* MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research,	Anticipated May 2018
 Data Science and Genomic Data Science Certificates
-
 Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA
 
 
-PhD, Interdisciplinary Program in Tumor Biology, Awarded May 2015
-
+* PhD, Interdisciplinary Program in Tumor Biology, Awarded May 2015
 Teaching Certificate, Apprenticeship in Teaching Program	
-
 Georgetown University, Washington DC, USA
-
 NIH Graduate Partnership Program, Bethesda, MD, USA
 
 
-Clinical Research Curriculum Certificate with Commendation,	Awarded June 2014
-
+* Clinical Research Curriculum Certificate with Commendation,	Awarded June 2014
 NIH Clinical Center, Bethesda, MD, USA	
 
 
-Master of Science, Biotechnology,	Awarded June 2009
-
+* Master of Science, Biotechnology,	Awarded June 2009
 Jagiellonian University, Department of Medical Biotechnology, Krakow, Poland
 
 
-Bachelor of Arts, Biology,	Awarded May 2007
-
+* Bachelor of Arts, Biology,	Awarded May 2007
 St. Mary’s College of Maryland, Department of Biology, St. Mary’s City, MD, USA
 
 
