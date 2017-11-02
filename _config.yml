@@ -81,8 +81,8 @@ author:
   name             : "Martin Skarzynski"
   avatar           : "profile.png"
   bio              : "I am an NCI Cancer Prevention Fellow interested in Data Science, Genomics & Immunology, and passionate about Python and R programming."
-  location         : "Baltimore & Bethesda, Maryland"
   employer         : "National Cancer Institute"
+  location         : "Baltimore & Bethesda, Maryland"
   googlescholar    : "https://scholar.google.com/citations?user=dmvK2MkAAAAJ&hl"
   email            :
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mskarzynski/"
+  linkedin         : "mskarzynski"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
