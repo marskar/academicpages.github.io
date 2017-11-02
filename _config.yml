@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &marskar
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   name             : "Martin Skarzynski"
   avatar           : "profile.png"
   bio              : "I am an NCI Cancer Prevention Fellow interested in Data Science, Genomics & Immunology, and passionate about Python and R programming."
-  location         : "Maryland, District of Columbia, & Virginia"
+  location         : "Baltimore & Bethesda, Maryland"
   employer         : "National Cancer Institute"
   googlescholar    : "https://scholar.google.com/citations?user=dmvK2MkAAAAJ&hl"
   email            :
