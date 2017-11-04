@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Python"
+title: "Introduction to Python (BIOF309)"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/BIOF309
+type: "graduate course"
+permalink: /teaching/biof309
 venue: "Foundation for the Advanced Education in the Sciences"
 date: 2017-09-01
 location: "Bethesda, Maryland"
