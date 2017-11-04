@@ -11,26 +11,29 @@ redirect_from:
 
 ## EDUCATION AND TRAINING
 
-* Cancer Prevention Fellowship Program,	June 2017 - Present
+- Cancer Prevention Fellowship Program,
 National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
+<br>June 2017 - Present
 
-* MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research,	Anticipated May 2018
-- Data Science and Genomic Data Science Certificates
-Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA
+- MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research,
+    - Data Science and Genomic Data Science Certificates
+<br>Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA
+<br>Anticipated May 2018
 
-* PhD, Interdisciplinary Program in Tumor Biology, Awarded May 2015
-Teaching Certificate, Apprenticeship in Teaching Program
-Georgetown University, Washington DC, USA
-NIH Graduate Partnership Program, Bethesda, MD, USA
+- PhD, Interdisciplinary Program in Tumor Biology
+    - Teaching Certificate, Apprenticeship in Teaching Program, Georgetown University
+    - NIH Clinical Research Curriculum Certificate with Commendation
+<br>Georgetown University, Washington DC, USA
+<br>NIH Graduate Partnership Program, Bethesda, MD, USA
+<br>Awarded May 2015
 
-* Clinical Research Curriculum Certificate with Commendation,	Awarded June 2014
-NIH Clinical Center, Bethesda, MD, USA
+- Master of Science, Biotechnology
+<br>Jagiellonian University, Department of Medical Biotechnology, Krakow, Poland
+<br>Awarded June 2009
 
-* Master of Science, Biotechnology,	Awarded June 2009
-Jagiellonian University, Department of Medical Biotechnology, Krakow, Poland
-
-* Bachelor of Arts, Biology,	Awarded May 2007
-St. Mary’s College of Maryland, Department of Biology, St. Mary’s City, MD, USA
+- Bachelor of Arts, Biology,
+<br>St. Mary’s College of Maryland, Department of Biology, St. Mary’s City, MD, USA
+<br>Awarded May 2007
 
 ## LABORATORY AND DATA SCIENCE EXPERIENCE
 
