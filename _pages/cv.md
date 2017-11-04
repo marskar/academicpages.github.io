@@ -11,20 +11,20 @@ redirect_from:
 
 ## EDUCATION AND TRAINING
 
-- Cancer Prevention Fellowship Program,
-National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
+- Cancer Prevention Fellowship Program
+<br>National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
 <br>June 2017 - Present
 
-- MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research,
-    - Data Science and Genomic Data Science Certificates
+- MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research
 <br>Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA
+    - Data Science and Genomic Data Science Certificates
 <br>Anticipated May 2018
 
 - PhD, Interdisciplinary Program in Tumor Biology
-    - Teaching Certificate, Apprenticeship in Teaching Program, Georgetown University
-    - NIH Clinical Research Curriculum Certificate with Commendation
 <br>Georgetown University, Washington DC, USA
+    - Teaching Certificate, Apprenticeship in Teaching Program
 <br>NIH Graduate Partnership Program, Bethesda, MD, USA
+    - NIH Clinical Research Curriculum Certificate with Commendation
 <br>Awarded May 2015
 
 - Master of Science, Biotechnology
