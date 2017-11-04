@@ -17,8 +17,8 @@ redirect_from:
 
 - MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research
 <br>Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA
-    - Data Science and Genomic Data Science Certificates
-<br>Anticipated May 2018
+    - Data Science and Genomic Data Science Certificates<br>
+Anticipated May 2018
 
 - PhD, Interdisciplinary Program in Tumor Biology
 <br>Georgetown University, Washington DC, USA
