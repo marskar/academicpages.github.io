@@ -14,4 +14,4 @@ For more information, please check out my [LedgEx pitch presentation](http://rpu
 *  The original dataset is available for download [here](http://www.journalofaccountancy.com/issues/2017/jan/general-ledger-data-mining.html).
 * The web app is deployed [here](https://marskar.shinyapps.io/DDPfinal).
 * To access the source code for data cleaning script, the web app and this presentation,
-please visit [my DDP GitHub repo](https://github.com/marskar/DDPfinal).
+please visit [my LedgEx GitHub repo](https://github.com/marskar/DDPfinal).

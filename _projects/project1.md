@@ -1,7 +1,6 @@
 ---
-title: "Project number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "In search of new research projects!"
+excerpt: "I am currently looking for new research projects as I pursue an MPH at Johns Hopkins University<br/><img src='/images/circos.jpg'>"
 collection: projects
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+My primary research interest is Cancer Prevention. My primary goal is to utilize my Python and R programming skills to obtain insights relevant to Cancer Prevention from Genomic, Proteomic and Epidemiologic data.
