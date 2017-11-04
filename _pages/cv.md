@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION AND TRAINING
-======
+## EDUCATION AND TRAINING
+
 * Cancer Prevention Fellowship Program,	June 2017 - Present
 National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
 
@@ -32,8 +32,7 @@ Jagiellonian University, Department of Medical Biotechnology, Krakow, Poland
 * Bachelor of Arts, Biology,	Awarded May 2007
 St. Mary’s College of Maryland, Department of Biology, St. Mary’s City, MD, USA
 
-LABORATORY AND DATA SCIENCE EXPERIENCE
-======
+## LABORATORY AND DATA SCIENCE EXPERIENCE
 
 ### November 2015 - May 2017
 Postdoctoral Fellow, Oncogenomics Section, Genetics Branch, National Cancer Institute (NCI), National Institutes of Health (NIH)
@@ -44,8 +43,7 @@ Predoctoral Fellow, Laboratory of Lymphoid Malignancies, Hematology Branch, Nati
 ### September 2013 - 2014
 Virtual Student Foreign Service Intern, Higher Education Solutions Network (HESN), United States Agency for International Development (USAID), US State Department
 
-Publications
-======
+## PUBLICATIONS
 
 1.	B Vire#, M Skarzynski#, JD Thomas, CG Nelson, A David, G Aue, TR Burke Jr., C Rader, A Wiestner
 Harnessing the Fcμ Receptor for Potent and Selective Cytotoxic Therapy of Chronic Lymphocytic Leukemia
@@ -69,8 +67,8 @@ Clinical Cancer Research, 22:86-95, 2016
 6.	NS Saba, D Liu, SEM Herman, C Underbayev, D Behrend, M Weniger, M Skarzynski […] WH Wilson, A Wiestner Pathogenic Role of B-cell Receptor Signaling and Canonical NF-κB Activation in Mantle Cell Lymphoma
 Blood, 10.1182/blood-2015-11-681460, 2016
 
-Teaching
-======
+## TEACHING
+
 
 ### January 2015 - Present
 Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES) - [](www.faes.org)
