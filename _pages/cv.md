@@ -22,8 +22,8 @@ redirect_from:
 
 - PhD, Interdisciplinary Program in Tumor Biology
 <br>Georgetown University, Washington DC, USA
-    - Teaching Certificate, Apprenticeship in Teaching Program
 <br>NIH Graduate Partnership Program, Bethesda, MD, USA
+    - Teaching Certificate, Apprenticeship in Teaching Program
     - NIH Clinical Research Curriculum Certificate with Commendation
 <br>Awarded May 2015
 
