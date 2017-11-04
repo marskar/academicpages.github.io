@@ -48,30 +48,31 @@ Virtual Student Foreign Service Intern, Higher Education Solutions Network (HESN
 
 ## PUBLICATIONS
 
-1.	B Vire#, M Skarzynski#, JD Thomas, CG Nelson, A David, G Aue, TR Burke Jr., C Rader, A Wiestner
-Harnessing the Fcμ Receptor for Potent and Selective Cytotoxic Therapy of Chronic Lymphocytic Leukemia
-Cancer Research, 74:7510-7520, 2014, #Co-first authorship
+1.	B Vire#, M Skarzynski#, JD Thomas, CG Nelson, A David, G Aue, TR Burke Jr., C Rader, A Wiestner.
+<br>Harnessing the Fcμ Receptor for Potent and Selective Cytotoxic Therapy of Chronic Lymphocytic Leukemia
+<br>Cancer Research, 74:7510-7520, 2014, #Co-first authorship
 
 2.	JE Weldon, M Skarzynski, J Therres, J Ostovitz, H Zhou, RJ Kreitman, I Pastan
-Redesigning the furin cleavage site of recombinant immunotoxins based on Pseudomonas exotoxin A
-Bioconjugate Chemistry, 26 (6):1120–1128, 2015
+<br>Redesigning the furin cleavage site of recombinant immunotoxins based on Pseudomonas exotoxin A
+<br>Bioconjugate Chemistry, 26 (6):1120–1128, 2015
 
 3.	A Bakir, M Skarzynski.
-Health disparities in the immunoprevention of human papillomavirus-associated malignancies
-Frontiers in Public Health, 3:256, 2015
+<br>Health disparities in the immunoprevention of human papillomavirus-associated malignancies
+<br>Frontiers in Public Health, 3:256, 2015
 
-4.	M Skarzynski, A Craig, C Taswell
-SOLOMON: an ontology for Sensory-Onset, Language-Onset, and Motor-Onset dementias
-Bioinformatics and Biomedicine (BIBM), 10.1109:969-972, 2015
+4.	M Skarzynski, A Craig, C Taswell.
+<br>SOLOMON: an ontology for Sensory-Onset, Language-Onset, and Motor-Onset dementias
+<br>Bioinformatics and Biomedicine (BIBM), 10.1109:969-972, 2015
 
-5.	M Skarzynski, CU Niemann, YS Lee, S Martyr, I Maric […] C Yuan, M  Farooqui, SEM Herman, A Wiestner Interactions between ibrutinib and anti-CD20 antibodies; competing effects on […] combination therapy
-Clinical Cancer Research, 22:86-95, 2016
+5.	M Skarzynski, CU Niemann, YS Lee, S Martyr, I Maric […] C Yuan, M  Farooqui, SEM Herman, A Wiestner.
+<br>Interactions between ibrutinib and anti-CD20 antibodies; competing effects on […] combination therapy
+<br>Clinical Cancer Research, 22:86-95, 2016
 
-6.	NS Saba, D Liu, SEM Herman, C Underbayev, D Behrend, M Weniger, M Skarzynski […] WH Wilson, A Wiestner Pathogenic Role of B-cell Receptor Signaling and Canonical NF-κB Activation in Mantle Cell Lymphoma
-Blood, 10.1182/blood-2015-11-681460, 2016
+6.	NS Saba, D Liu, SEM Herman, C Underbayev, D Behrend, M Weniger, M Skarzynski […] WH Wilson, A Wiestner.
+<br>Pathogenic Role of B-cell Receptor Signaling and Canonical NF-κB Activation in Mantle Cell Lymphoma
+<br>Blood, 10.1182/blood-2015-11-681460, 2016
 
 ## TEACHING
-
 
 ### January 2015 - Present
 Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES) - [](www.faes.org)
