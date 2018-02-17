@@ -11,6 +11,10 @@ redirect_from:
 
 ## EDUCATION AND TRAINING
 
+- Yellowbrick Research Lab
+<br>District Data Labs, Washington, DC, USA
+<br>February 2018 - Present
+
 - Cancer Prevention Fellowship Program
 <br>National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
 <br>June 2017 - Present
@@ -35,16 +39,33 @@ redirect_from:
 <br>St. Mary’s College of Maryland, Department of Biology, St. Mary’s City, MD, USA
 <br>Awarded May 2007
 
-## LABORATORY AND DATA SCIENCE EXPERIENCE
+## TEACHING
 
-### November 2015 - May 2017
-Postdoctoral Fellow, Oncogenomics Section, Genetics Branch, National Cancer Institute (NCI), National Institutes of Health (NIH)
+### January 2015 - Present
+Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES) - [](www.faes.org)
+Designed, planned, organized and taught ten graduate practical courses:
+- Introduction to Python (BIOF309),
+- Introduction to Text Mining (BIOF395),
+- Pharmacometric Analyses in Clinical Trials using R (BioTech84),
+- Flow Cytometry: Principles and Methods (BioTech23),
+- Junior Scientist Training Program (BioTech42),
+- Cellular Immunology (BioTech4),
+- NCI Cancer Prevention Fellowship Program (CPFP) Summer Laboratory Workshop,
+- Summer Genetics Institute,
+- Recombinant DNA Methodology - Molecular Biology of Nucleic Acids (BioTech2),
+- Immunochemistry and Monoclonal Antibody Production (BioTech8),
+- Research Tools for Studying Disease (BIOL262)
 
-### February 2012 - October 2015
-Predoctoral Fellow, Laboratory of Lymphoid Malignancies, Hematology Branch, National Heart Lung and Blood Institute (NHLBI), NIH
+### April 2017 - Present
+Instructor, Software Carpentry and Data Carpentry - [](www.software-carpentry.org) & [](http://www.datacarpentry.org/)
+- Worked to redesign and streamline lessons and setup instructions
+- Instructed learners during UNIX, git, Python, R and SQL lessons
 
-### September 2013 - 2014
-Virtual Student Foreign Service Intern, Higher Education Solutions Network (HESN), United States Agency for International Development (USAID), US State Department
+### January 2015 - May 2015
+Adjunct Professor, Women’s Leadership Program (WLP) George Washington University (GWU) - [](www.wlp.gwu.edu)
+- Taught an undergraduate lecture and lab course, Introductory Biology: The Biology of Organisms (BISC 1112)
+- Organized, led and invited speakers for an undergraduate seminar, Women and Leadership (WLP1111)
+- Published a review article based on the BISC1112 term paper of a WLP student
 
 ## PUBLICATIONS
 
@@ -72,29 +93,14 @@ Virtual Student Foreign Service Intern, Higher Education Solutions Network (HESN
 <br>Pathogenic Role of B-cell Receptor Signaling and Canonical NF-κB Activation in Mantle Cell Lymphoma
 <br>Blood, 10.1182/blood-2015-11-681460, 2016
 
-## TEACHING
+## LABORATORY AND DATA SCIENCE EXPERIENCE
 
-### January 2015 - Present
-Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES) - [](www.faes.org)
-Designed, planned, organized and taught ten graduate practical courses:
-- Introduction to Python (BIOF309),
-- Pharmacometric Analyses in Clinical Trials using R (BioTech84),
-- Flow Cytometry: Principles and Methods (BioTech23),
-- Junior Scientist Training Program (BioTech42),
-- Cellular Immunology (BioTech4),
-- NCI Cancer Prevention Fellowship Program (CPFP) Summer Laboratory Workshop,
-- Summer Genetics Institute,
-- Recombinant DNA Methodology - Molecular Biology of Nucleic Acids (BioTech2),
-- Immunochemistry and Monoclonal Antibody Production (BioTech8),
-- Research Tools for Studying Disease (BIOL262)
+### November 2015 - May 2017
+Postdoctoral Fellow, Oncogenomics Section, Genetics Branch, National Cancer Institute (NCI), National Institutes of Health (NIH)
 
-### April 2017 - Present
-Instructor, Software Carpentry and Data Carpentry - [](www.software-carpentry.org) & [](http://www.datacarpentry.org/)
-- Worked to redesign and streamline lessons and setup instructions
-- Instructed learners during UNIX, git, Python, R and SQL lessons
+### February 2012 - October 2015
+Predoctoral Fellow, Laboratory of Lymphoid Malignancies, Hematology Branch, National Heart Lung and Blood Institute (NHLBI), NIH
 
-### January 2015 - May 2015
-Adjunct Professor, Women’s Leadership Program (WLP) George Washington University (GWU) - [](www.wlp.gwu.edu)
-- Taught an undergraduate lecture and lab course, Introductory Biology: The Biology of Organisms (BISC 1112)
-- Organized, led and invited speakers for an undergraduate seminar, Women and Leadership (WLP1111)
-- Published a review article based on the BISC1112 term paper of a WLP student
+### September 2013 - 2014
+Virtual Student Foreign Service Intern, Higher Education Solutions Network (HESN), United States Agency for International Development (USAID), US State Department
+
