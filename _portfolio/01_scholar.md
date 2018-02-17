@@ -1,6 +1,6 @@
 ---
 title: "Scholar Shiny App"
-excerpt: "<a href='https://marskar.github.io/portfolio/01_scholar'>A data dashboard for academic researchers<br/><img src='/images/scholar.png'></a>"
+excerpt: "<a href='https://marskar.github.io/portfolio/01_scholar/'>A data dashboard for academic researchers<br/><img src='/images/scholar.png'></a>"
 collection: portfolio
 ---
 
