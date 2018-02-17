@@ -43,7 +43,7 @@ redirect_from:
 
 ### January 2015 - Present
 Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES)
-Designed, planned, organized and taught ten graduate practical courses:
+Designed, planned, organized and taught more than ten graduate practical courses:
 - Introduction to Python (BIOF309)
 - Introduction to Text Mining (BIOF395)
 - Pharmacometric Analyses in Clinical Trials using R (BioTech84)
