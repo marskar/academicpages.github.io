@@ -42,27 +42,27 @@ redirect_from:
 ## TEACHING
 
 ### January 2015 - Present
-Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES) - [](www.faes.org)
+Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES)
 Designed, planned, organized and taught ten graduate practical courses:
-- Introduction to Python (BIOF309),
-- Introduction to Text Mining (BIOF395),
-- Pharmacometric Analyses in Clinical Trials using R (BioTech84),
-- Flow Cytometry: Principles and Methods (BioTech23),
-- Junior Scientist Training Program (BioTech42),
-- Cellular Immunology (BioTech4),
-- NCI Cancer Prevention Fellowship Program (CPFP) Summer Laboratory Workshop,
-- Summer Genetics Institute,
-- Recombinant DNA Methodology - Molecular Biology of Nucleic Acids (BioTech2),
-- Immunochemistry and Monoclonal Antibody Production (BioTech8),
-- Research Tools for Studying Disease (BIOL262)
+- Introduction to Python (BIOF309)
+- Introduction to Text Mining (BIOF395)
+- Pharmacometric Analyses in Clinical Trials using R (BioTech84)
+- Flow Cytometry: Principles and Methods (BioTech23)
+- Junior Scientist Training Program (BioTech42)
+- Cellular Immunology (BioTech4)
+- NCI Cancer Prevention Fellowship Program (CPFP) Summer Laboratory Workshop
+- Summer Genetics Institute
+- Recombinant DNA Methodology - Molecular Biology of Nucleic Acids (BioTech2)
+- Immunochemistry and Monoclonal Antibody Production (BioTech8)
+- Research Tools for Studying Disease (BIOL262
 
 ### April 2017 - Present
-Instructor, Software Carpentry and Data Carpentry - [](www.software-carpentry.org) & [](http://www.datacarpentry.org/)
+Instructor, Software Carpentry and Data Carpentry
 - Worked to redesign and streamline lessons and setup instructions
 - Instructed learners during UNIX, git, Python, R and SQL lessons
 
 ### January 2015 - May 2015
-Adjunct Professor, Women’s Leadership Program (WLP) George Washington University (GWU) - [](www.wlp.gwu.edu)
+Adjunct Professor, Women’s Leadership Program (WLP) George Washington University (GWU)
 - Taught an undergraduate lecture and lab course, Introductory Biology: The Biology of Organisms (BISC 1112)
 - Organized, led and invited speakers for an undergraduate seminar, Women and Leadership (WLP1111)
 - Published a review article based on the BISC1112 term paper of a WLP student
