@@ -1,6 +1,6 @@
 ---
 title: "NxtWrd: Text Prediction Shiny App"
-excerpt: "A web application that can predict the next word based on text input from the user<br/><img src='/images/nxtwrd.png'>"
+excerpt:  "<a href='https://marskar.shinyapps.io/DScapFinal'>A web application that can predict the next word based on text input from the user<br/><img src='/images/nxtwrd.png'></a>"
 collection: portfolio
 ---
 [NxtWrd](https://marskar.shinyapps.io/DScapFinal) is a web application that can predict the next word based on text input from the user. I created it using the [R programming language](https://www.r-project.org) and the [Shiny R package](https://shiny.rstudio.com/).
