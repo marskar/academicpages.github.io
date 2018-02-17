@@ -1,6 +1,6 @@
 ---
 title: "LedgEx: Ledger Explorer Shiny App"
-excerpt: "A data dashboard for financial ledgers<br/><img src='/images/ledgex.png'>"
+excerpt: "<a href='https://marskar.github.io/portfolio/03_LedgEx/'>A data dashboard for financial ledgers<br/><img src='/images/ledgex.png'></a>"
 collection: portfolio
 ---
 
