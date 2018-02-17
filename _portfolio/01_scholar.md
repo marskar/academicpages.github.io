@@ -1,6 +1,6 @@
 ---
 title: "Scholar Shiny App"
-excerpt: "A data dashboard for academic researchers<br/><a href='https://jhubiostatistics.shinyapps.io/scholr/'><img src='/images/scholar.png'></a>"
+excerpt: "<a href='https://jhubiostatistics.shinyapps.io/scholr/'>A data dashboard for academic researchers</a><br/><a href='https://jhubiostatistics.shinyapps.io/scholr/'><img src='/images/scholar.png'></a>"
 collection: portfolio
 ---
 
