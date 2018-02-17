@@ -20,7 +20,7 @@ redirect_from:
 <br>June 2017 - Present
 
 - MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research
-<br>Johns Hopkins University, Bloomberg School of Public Health, Baltimore, MD, USA
+<br>Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA
 <br>Anticipated May 2018
     - Data Science and Genomic Data Science Certificates
 
