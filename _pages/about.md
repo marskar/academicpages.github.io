@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Martin. I am a National Cancer Institute (NCI) Cancer Prevention Fellow currently pursuing an Master of Public Health (MPH) degree at Johns Hopkins University.
+Martin Skarzynski, a Cancer Prevention Fellow since 2017, is passionate about Bioinformatics, Data Science and Statistical Computing. Martin uses the Python and R programming languages and command line tools to explore, analyze, visualize and present data and has a strong interest in reproducibility, scientific publishing workflows, and open data/science best practices. Martin is excited to apply his computational skills in combination with his Genomics and Immunology background to the study and prevention of cancer.
 
-Before becoming a Cancer Prevention Fellow, I worked on immunotherapeutics as a postdoctoral fellow in the Oncogenomics Section of the NCI Genetics Branch and the Lymphoid Malignancies Section of the NHLBI Hematology Branch.
+Outside of the Cancer Prevention Fellowship Program, Martin is co-chair of the Bioinformatics and Data Science Department at the Foundation for the Advancement of Education in the Sciences (FAES), where he has been an instructor since 2015 and currently teaches Introduction to Python (BIOF309). Martin is also an instructor for Software and Data Carpentry, non-profit organizations that teach computational skills, and an Associate Editor at the journal *Frontiers in Public Health*.
 
-After conducting laboratory research for roughly a decade, I want to now focus on computational work and improving my statistical computing skills. I use the Python and R programming languages in addition to command line (bash) tools to analyze and visualize data. I am interested in applying my Genomics and Immunology experience to the study and immunoprevention of cancer.
+Martin holds an MPH in Epidemiologic and Biostatistical Methods for Public Health and Clinical Research and a certificate in Data Science from Johns Hopkins University, a PhD in Tumor Biology from Georgetown University, an MS in Biotechnology from Jagiellonian University in Poland, and a BA in Biology from St. Mary’s College of Maryland.
 
-A fun fact about me is that I speak 4 languages (English, Polish, Russian and Spanish) and I am learning French. I studied Mandarin Chinese in the past.
