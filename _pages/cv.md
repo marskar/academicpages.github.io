@@ -11,10 +11,6 @@ redirect_from:
 
 ## EDUCATION AND TRAINING
 
-- Yellowbrick Research Lab
-<br>District Data Labs, Washington, DC, USA
-<br>February 2018 - Present
-
 - Cancer Prevention Fellowship Program
 <br>National Cancer Institute (NCI), National Institutes of Health (NIH), Rockville, MD, USA
 <br>June 2017 - Present
