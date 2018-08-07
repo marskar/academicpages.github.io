@@ -99,4 +99,3 @@ Predoctoral Fellow, Laboratory of Lymphoid Malignancies, Hematology Branch, Nati
 
 ### September 2013 - 2014
 Virtual Student Foreign Service Intern, Higher Education Solutions Network (HESN), United States Agency for International Development (USAID), US State Department
-
