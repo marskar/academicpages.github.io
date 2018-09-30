@@ -1,6 +1,6 @@
 ---
 title: "Python Packages"
-excerpt: "<a href='https://marskar.github.io/portfolio/00_python_packages/'>Python packages I wrote<br/><img src='/images/catrmd.png'></a>"
+excerpt: "<a href='https://marskar.github.io/portfolio/00_python_packages/'>Python packages I wrote and maintain<br/><img src='/images/catrmd.png'></a>"
 collection: portfolio
 ---
 
