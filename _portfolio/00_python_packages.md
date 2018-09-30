@@ -10,6 +10,6 @@ I wrote four Python packages that are available on [PyPI](https://pypi.org/):
 
 - [`catren`](https://pypi.org/project/catren/) - create and render [R markdown](https://rmarkdown.rstudio.com/) files from [markdown](https://www.markdownguide.org/) files and scripts.
 
-- [`skippy`](https://pypi.org/project/skippy/) - simplify analysis of [scikit-learn](http://scikit-learn.org/stable/) machine learning [datasets](http://scikit-learn.org/stable/datasets/)).
+- [`skippy`](https://pypi.org/project/skippy/) - simplify analysis of [scikit-learn](http://scikit-learn.org/stable/) machine learning [datasets](http://scikit-learn.org/stable/datasets/).
 
 - [`scattr`](https://pypi.org/project/scattr/) - add user-defined functions as [methods](https://docs.python.org/3/tutorial/classes.html#method-objects) to Python [classes](https://docs.python.org/3/tutorial/classes.html).
