@@ -1,7 +1,7 @@
 ---
 title: 'Slides'
 date: 2018-11-05
-permalink: /posts/slides/
+permalink: /posts/2018/11/slides/
 tags:
   - markdown
   - rmarkdown
