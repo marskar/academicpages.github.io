@@ -4,12 +4,16 @@ excerpt: "<a href='https://marskar.github.io/portfolio/00_python_packages/'>Pyth
 collection: portfolio
 ---
 
-I wrote four Python packages that are available on [PyPI](https://pypi.org/):
+Open source Python packages that I wrote and maintain:
 
-- [`nbless`](https://pypi.org/project/nbless/) - create and execute [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html) from [markdown](https://www.markdownguide.org/) files and scripts.
+- [`nbless`](https://pypi.org/project/nbless/) - A package for programmatic [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html) workflows. For example, you can create Jupyter notebooks from [markdown](https://www.markdownguide.org/) files and Python or R scripts. [Documentation](https://marskar.github.io/nbless/). [GitHub repository](https://github.com/marskar/nbless/).
 
-- [`catren`](https://pypi.org/project/catren/) - create and render [R markdown](https://rmarkdown.rstudio.com/) files from [markdown](https://www.markdownguide.org/) files and scripts.
+- [`rmdawn`](https://pypi.org/project/rmdawn/) - Construct [R markdown](https://rmarkdown.rstudio.com/) files from [markdown](https://www.markdownguide.org/) files and scripts or the reverse: extract Python or R code and markdown from an R markdown file. [Documentation](https://marskar.github.io/nbless/). [GitHub repository](https://github.com/marskar/rmdawn/).
 
-- [`skippy`](https://pypi.org/project/skippy/) - simplify analysis of [scikit-learn](http://scikit-learn.org/stable/) machine learning [datasets](http://scikit-learn.org/stable/datasets/).
+- [`gitone`](https://pypi.org/project/gitone/) - Accomplish multiple [git](https://git-scm.com/) version control steps with **one** command. [Documentation](https://marskar.github.io/gitone/). [GitHub repository](https://github.com/marskar/gitone/).
 
-- [`scattr`](https://pypi.org/project/scattr/) - add user-defined functions as [methods](https://docs.python.org/3/tutorial/classes.html#method-objects) to Python [classes](https://docs.python.org/3/tutorial/classes.html).
+Packages I wrote but no longer maintain:
+
+- [`skippy`](https://pypi.org/project/skippy/) - Simplify analysis of [scikit-learn](http://scikit-learn.org/stable/) machine learning [datasets](http://scikit-learn.org/stable/datasets/).
+
+- [`scattr`](https://pypi.org/project/scattr/) - Add user-defined functions as [methods](https://docs.python.org/3/tutorial/classes.html#method-objects) to Python [classes](https://docs.python.org/3/tutorial/classes.html).
