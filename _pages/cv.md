@@ -18,7 +18,7 @@ redirect_from:
 - MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research
 <br>Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA
 <br>Anticipated May 2018
-    - Data Science and Genomic Data Science Certificates
+    - Data Science Certificate
 
 - PhD, Interdisciplinary Program in Tumor Biology
 <br>Georgetown University, Washington DC, USA
@@ -40,6 +40,7 @@ redirect_from:
 ### January 2015 - Present
 Instructor, Biotechnology Program and Graduate School, Foundation for Advanced Education in the Sciences (FAES)
 Designed, planned, organized and taught more than ten graduate practical courses:
+- Applied Machine Learning (BIOF509)
 - Introduction to Python (BIOF309)
 - Introduction to Text Mining (BIOF395)
 - Pharmacometric Analyses in Clinical Trials using R (BioTech84)
@@ -50,7 +51,7 @@ Designed, planned, organized and taught more than ten graduate practical courses
 - Summer Genetics Institute
 - Recombinant DNA Methodology - Molecular Biology of Nucleic Acids (BioTech2)
 - Immunochemistry and Monoclonal Antibody Production (BioTech8)
-- Research Tools for Studying Disease (BIOL262
+- Research Tools for Studying Disease (BIOL262)
 
 ### April 2017 - Present
 Instructor, Software Carpentry and Data Carpentry
