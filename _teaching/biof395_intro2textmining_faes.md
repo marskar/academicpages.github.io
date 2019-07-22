@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Text Mining (BIOF309)"
+title: "Introduction to Text Mining (BIOF395)"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/biof309
+permalink: /teaching/biof395
 venue: "Foundation for the Advanced Education in the Sciences"
 date: 2018-01-29
 location: "Bethesda, Maryland"
