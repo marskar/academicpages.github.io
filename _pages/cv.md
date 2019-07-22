@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "CURRICULUM VITAE"
-permalink: /cv/
+title: "Résumé"
+permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
