@@ -17,7 +17,7 @@ redirect_from:
 
 - MPH, Epidemiologic & Biostatistical Methods for Public Health & Clinical Research
 <br>Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA
-<br>Anticipated May 2018
+<br>Awarded May 2018
     - Data Science Certificate
 
 - PhD, Interdisciplinary Program in Tumor Biology
