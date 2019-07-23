@@ -4,7 +4,7 @@ collection: teaching
 type: "Enterprise Training Course"
 permalink: /teaching/ga
 venue: "General Assembly"
-date: 2019-07-22
+date: 2019-09-13
 location: "Washington, DC"
 ---
 
