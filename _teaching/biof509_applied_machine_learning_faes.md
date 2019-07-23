@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/biof509
 venue: "Foundation for the Advanced Education in the Sciences"
-date: 2019-02-07
+date: 2019-09-13
 location: "Bethesda, Maryland"
 ---
 
